@@ -1,15 +1,18 @@
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
     background-color: hsl(0, 0%, 8%);
 }
 
 .container {
+    
     background-color: hsl(0, 0%, 12%);
     border-radius: 10px;
     color: hsl(0, 0%, 100%);
     text-align: center;
-    width: 280px;
     padding: 30px;
-    margin: 150px auto;
 }
 
 .name {
