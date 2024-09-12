@@ -49,6 +49,7 @@ body {
 .social-link:hover {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 0%);
+    cursor: pointer;
 }
 
 .social-link > p {
