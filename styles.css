@@ -57,7 +57,7 @@ body {
 }
 
 .attribution { 
-    font-size: 11px;
+    font-size: 100%;
 }
 .attribution > a { 
     color: hsl(228, 45%, 44%); 
