@@ -1,6 +1,5 @@
 body {
     background-color: hsl(0, 0%, 8%);
-    min-width: 320px;
 }
 
 .container {
@@ -11,7 +10,7 @@ body {
     width: 15%;
     padding: 30px;
     margin: 150px auto;
-    
+    min-width: 320px;
 }
 
 .name {
