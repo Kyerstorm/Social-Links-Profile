@@ -7,10 +7,9 @@ body {
     border-radius: 10px;
     color: hsl(0, 0%, 100%);
     text-align: center;
-    width: 15%;
+    width: 280px;
     padding: 30px;
     margin: 150px auto;
-    min-width: 320px;
 }
 
 .name {
